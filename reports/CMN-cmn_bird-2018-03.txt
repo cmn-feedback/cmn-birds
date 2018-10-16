@@ -1,0 +1,222 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 696
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 20
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-16 ; Times: 7
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 5
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 13
+	Date: 2018-03-07 ; Times: 7
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 16
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 4
+	Date: 2018-03-26 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "shimba kenya nectarinia" ; Times: 1
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "nana jamaica" ; Times: 2
+	Query: "Otus asio minnesota" ; Times: 1
+	Query: "R 23339" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "72742" ; Times: 1
+	Query: "Ploceus subaureus" ; Times: 2
+	Query: "recordnumber:4638" ; Times: 1
+	Query: "50204" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "12594 R" ; Times: 1
+	Query: "recordedby:Tait" ; Times: 1
+	Query: "furnarius figulus" ; Times: 2
+	Query: "24890" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "gbifdatasetid:848586a4-a07b-4974-9f12-e1bbe0736a21" ; Times: 1
+	Query: "kenya nectarinia venusta" ; Times: 1
+	Query: "Melanerpes radiolatus" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "Saltator atripennis" ; Times: 1
+	Query: "Lonchura malacca " ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "Gladys" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "recordedby:Congreve" ; Times: 1
+	Query: "catalognumber:76325" ; Times: 2
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "62969" ; Times: 1
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "sakesphorus luctuosus" ; Times: 3
+	Query: "recordedby:Smith year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "47432`" ; Times: 1
+	Query: "Bubulcus ibis " ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "recordedby:Legendre" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "shimba kenya aves" ; Times: 1
+	Query: "Ploceus spekei" ; Times: 1
+	Query: "piaya minuta" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "Aratinga nana" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "2788 geothlypis" ; Times: 1
+	Query: "chordeiles rupestris" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "Amazona collaria" ; Times: 6
+	Query: "Aratinga nana Jamaica" ; Times: 1
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "emberiza aureola" ; Times: 3
+	Query: "Psittacula roseata" ; Times: 5
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "psophia" ; Times: 1
+	Query: "institutioncode:CMN Aves" ; Times: 2
+	Query: "65223" ; Times: 1
+	Query: "Streptopelia decaocto " ; Times: 1
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "15119" ; Times: 1
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Falco biarmicus" ; Times: 2
+	Query: "16003" ; Times: 1
+	Query: "16171" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1284 download events in this period)
+Total number of records downloaded: 1090
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 13
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-12 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "gymnomystax mexicanus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Otus asio minnesota" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "recordedby:Mena" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "paroaria gularis" ; Times: 1
+	Query: "furnarius figulus" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "Saltator atripennis" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "sakesphorus luctuosus" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "chordeiles rupestris" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "emberiza aureola" ; Times: 2
+	Query: "Pyriglena leuconota" ; Times: 1
+	Query: "recordedby:Congreve" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "locality:San Jose stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "sicalis columbiana" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
