@@ -1,0 +1,160 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Turkey ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 55
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 20
+	Date: 2018-09-25 ; Times: 7
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 10
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-08 ; Times: 4
+	Date: 2018-09-28 ; Times: 6
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 38
+	Date: 2018-09-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:trostler" ; Times: 2
+	Query: "passer hispaniolensis" ; Times: 3
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "numenius arquata canada" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "melocichla" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "dolly varden" ; Times: 2
+	Query: "Osmaston 1907" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 39
+	Query: "egg mississippi" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 15
+	Query: "grizzly bear" ; Times: 3
+	Query: "34893-1" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "recordedby:Christie year &gt;= 1891 year &lt;= 1896" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Coracias spatulatus" ; Times: 4
+	Query: "80729" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "R 15654" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "osmaston 1907-02" ; Times: 1
+	Query: "recordedby:trostler" ; Times: 1
+	Query: "coracias spatulatus" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Paget AVES" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "capito dayi" ; Times: 11
+	Query: "recordedby:Witmer Stone" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 846 download events in this period)
+Total number of records downloaded: 2808
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 8
+	Country: Norway ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "recordedby:Koren" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "locality:kolyma" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "capito dayi" ; Times: 1
+
+
+End of report.
