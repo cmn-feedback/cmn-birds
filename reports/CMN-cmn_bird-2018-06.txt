@@ -1,0 +1,179 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 522
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 47
+	Country: Australia ; Times: 71
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 14
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 55
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 17
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 7
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "distance(location,geopoint(43.5412602229842,-93.635249322547))&lt;19715" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "65362" ; Times: 1
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "19696" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 4
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "eupetomena" ; Times: 1
+	Query: "Wolves" ; Times: 1
+	Query: "gbifdatasetid:848586a4-a07b-4974-9f12-e1bbe0736a21" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "28940" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:3014 institutioncode:CMN" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "pogoniulus pusillus" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "grizzly bear" ; Times: 5
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "Campylorhynchus turdinus" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "79409" ; Times: 1
+	Query: "distance(location,geopoint(43.34210307502,-93.6497951211712))&lt;21693" ; Times: 1
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "Pyrrhura" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "distance(location,geopoint(43.234007768888,-93.6727266167564))&lt;19735" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "distance(location,geopoint(43.4501983811515,-93.6453331894598))&lt;21259" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "county:&#34;camden&#34; stateprovince:&#34;georgia&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "numenius borealis" ; Times: 73
+	Query: "16262" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "dicrurus macrocercus india" ; Times: 2
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1169 download events in this period)
+Total number of records downloaded: 8109
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "grizzly bear" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "sterna maxima" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+
+
+End of report.
