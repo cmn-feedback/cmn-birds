@@ -1,0 +1,138 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 1192
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 12
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 39
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 5
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 6
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-03 ; Times: 9
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-25 ; Times: 14
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-16 ; Times: 5
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:heatherdown stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "miliaria" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "camptorhynchus" ; Times: 4
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "locality:portland cave country:&#34;jamaica&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "32087" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "elaenia flavogaster" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Cyanerpes nitidus" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Empidornis semipartitus" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 2
+	Query: "22350" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "institutioncode:cmn Psittacidae" ; Times: 11
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1300 download events in this period)
+Total number of records downloaded: 98
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "paulson" ; Times: 1
+
+
+End of report.
