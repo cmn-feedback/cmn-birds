@@ -1,0 +1,286 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 611
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 16
+	Country: Netherlands ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 8
+	Country: Peru ; Times: 108
+	Country: Belgium ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 13
+	Date: 2019-01-15 ; Times: 7
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 9
+	Date: 2019-01-11 ; Times: 16
+	Date: 2019-01-12 ; Times: 5
+	Date: 2019-01-13 ; Times: 17
+	Date: 2019-01-03 ; Times: 7
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 6
+	Date: 2019-01-28 ; Times: 8
+	Date: 2019-01-07 ; Times: 20
+	Date: 2019-01-06 ; Times: 3
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 11
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-20 ; Times: 5
+	Date: 2019-01-09 ; Times: 26
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-27 ; Times: 6
+	Date: 2019-01-08 ; Times: 12
+	Date: 2019-01-16 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Urosticte benjamini" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 3
+	Query: "Calidris canutus" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 5
+	Query: "Crypturellus obsoletus" ; Times: 4
+	Query: "catalognumber:34376 institutioncode:CMN" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "catalognumber:75521 institutioncode:CMN" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Nystactes tamatia" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "turdus ruficollis india" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "catalognumber:28013 institutioncode:CMN" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "catalognumber:75208 institutioncode:CMN" ; Times: 2
+	Query: "emberiza stewarti" ; Times: 1
+	Query: "Pyriglena leuconota" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Campephilus melanoleucos" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "catalognumber:5899 institutioncode:CMN" ; Times: 1
+	Query: "Chlorostilbon lucidus" ; Times: 1
+	Query: "Touit huetii" ; Times: 1
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "Gymnogyps" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "turdus ruficollis ruficollis india" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "70516" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Cercomacra cinerascens" ; Times: 1
+	Query: "catalognumber:11761 institutioncode:CMN" ; Times: 1
+	Query: "Jacamerops aureus" ; Times: 1
+	Query: "56758" ; Times: 1
+	Query: "Grallaria ruficapilla" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Porzana albicollis" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "catalognumber:4518 institutioncode:CMN" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "Formicivora rufa" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Piaya melanogaster" ; Times: 1
+	Query: "Brachygalba lugubris" ; Times: 1
+	Query: "catalognumber:17311 institutioncode:CMN" ; Times: 2
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 2
+	Query: "sialia nidificans" ; Times: 1
+	Query: "catalognumber:28012 institutioncode:CMN" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "Notharchus hyperrhynchus" ; Times: 1
+	Query: "catalognumber:9559 institutioncode:CMN" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "JAM 2302" ; Times: 2
+	Query: "Notharchus tectus" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "Garibaldi" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "Monasa nigrifrons" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Nasica longirostris" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "chloephaga hybrida" ; Times: 3
+	Query: "66527" ; Times: 1
+	Query: "Monasa morphoeus" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "catalognumber:9558 institutioncode:CMN" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "catalognumber:5897 institutioncode:CMN" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "owenii" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;Tocantins&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 3
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "Brotogeris sanctithomae" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "bonasa 1888" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "catalognumber:28014 institutioncode:CMN" ; Times: 1
+	Query: "Nystalus striolatus" ; Times: 1
+	Query: "Xiphorhynchus spixii" ; Times: 1
+	Query: "Veniliornis passerinus" ; Times: 1
+	Query: "apteryx owenii" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Colaptes punctigula" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "Dendroica kirtlandii" ; Times: 4
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Antilophia galeata" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "81173" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "Campylorhamphus trochilirostris" ; Times: 1
+	Query: "Phalcoboenus megalopterus" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "catalognumber:18474 institutioncode:CMN" ; Times: 1
+	Query: "catalognumber:42388 institutioncode:CMN" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "wolves" ; Times: 2
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 962 download events in this period)
+Total number of records downloaded: 560
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
