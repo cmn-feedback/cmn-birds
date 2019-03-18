@@ -1,0 +1,189 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 17
+	Country: United States ; Times: 76
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 5
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 20
+	Date: 2019-02-12 ; Times: 13
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-19 ; Times: 8
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-04 ; Times: 22
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-08 ; Times: 17
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 6
+	Date: 2019-02-01 ; Times: 8
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoenicurus erythronotus Kashmir" ; Times: 1
+	Query: "Legge" ; Times: 1
+	Query: "&#34;Neothraupis fasciata&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Pipile jacutinga" ; Times: 9
+	Query: "30596" ; Times: 1
+	Query: "pavo mount male vntype:specimen basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Celeus flavescens mappable:1" ; Times: 2
+	Query: "Corvus cryptoleucus cryptoleucus mappable:1" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "emberiza stewarti" ; Times: 1
+	Query: "(Vassar)" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "Touit huetii" ; Times: 2
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "e4186" ; Times: 3
+	Query: "Myrmoborus lugubris" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 2
+	Query: "58978" ; Times: 1
+	Query: "Strix occidentalis ca" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 4
+	Query: "44998" ; Times: 1
+	Query: "Myrmoborus lugubris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strix occidentalis o" ; Times: 2
+	Query: "Pterodroma externa" ; Times: 2
+	Query: "17499" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "locality:herschel island" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Capsiempis flaveola" ; Times: 1
+	Query: "P.I. Osburn" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "Synallaxis rutilans" ; Times: 1
+	Query: "Strix aluco Kashmir" ; Times: 2
+	Query: "27799" ; Times: 1
+	Query: "79677" ; Times: 1
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "e3530" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "Automolus rufipileatus" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "31887" ; Times: 2
+	Query: "Trogon surrucura mappable:1" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "sturnus unicolor" ; Times: 1
+	Query: "Strix aluco India" ; Times: 1
+	Query: "Baryphthengus ruficapillus mappable:1" ; Times: 2
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "32402" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "phoenicurus erythronotus india" ; Times: 1
+	Query: "Phoenicurus erythronotus" ; Times: 2
+	Query: "Herpsilochmus pileatus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "73020" ; Times: 1
+	Query: "egretta thula bear river vntype:specimen" ; Times: 1
+	Query: "india phoenicurus erythronotus" ; Times: 1
+	Query: "&#34;Basileuterus leucophrys&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Pterodroma hasitata" ; Times: 2
+	Query: "Phoenicurus erythronotus INdia" ; Times: 3
+	Query: "35018 aves" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 2
+	Query: "India Phoenicurus erythronotus" ; Times: 1
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "phoenicurus erythronotus" ; Times: 4
+	Query: "Phoenicurus erythronotus India" ; Times: 3
+	Query: "32115" ; Times: 1
+	Query: "crypturellus undulatus" ; Times: 1
+	Query: "nothura" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "Numenius tahitiensis" ; Times: 2
+	Query: "Spheniscus magellanicus" ; Times: 3
+	Query: "30254" ; Times: 1
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "Capito dayi" ; Times: 2
+	Query: "cairina moschata" ; Times: 1
+	Query: "Corvus cryptoleucus mappable:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "phaetusa simplex" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1227 download events in this period)
+Total number of records downloaded: 1179
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "osmaston andaman" ; Times: 1
+	Query: "Myrmoborus lugubris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+
+
+End of report.
