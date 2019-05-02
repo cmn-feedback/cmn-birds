@@ -1,0 +1,193 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 595
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 77
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Switzerland ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: French Guiana ; Times: 1
+	Country: United States ; Times: 53
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-19 ; Times: 5
+	Date: 2019-04-18 ; Times: 15
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 5
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-02 ; Times: 6
+	Date: 2019-04-03 ; Times: 5
+	Date: 2019-04-06 ; Times: 20
+	Date: 2019-04-22 ; Times: 6
+	Date: 2019-04-05 ; Times: 20
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 12
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 5
+	Date: 2019-04-09 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 3
+	Query: "75419" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Cairina moschata  mappable:1" ; Times: 1
+	Query: "&#34;lower klamath&#34; &#34;siskiyou&#34;" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "barbirostris" ; Times: 3
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "&#34;crescent lake&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "queen lake" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 2
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "catalognumber:1154 institutioncode:CMN" ; Times: 2
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 8
+	Query: "vanellus gregarius" ; Times: 2
+	Query: "&#34;stormont&#34;" ; Times: 2
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "55268" ; Times: 1
+	Query: "locality:queen lake" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "tetrax tetrax" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "49917" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 3
+	Query: "64422" ; Times: 1
+	Query: "Cossypha dichroa mappable:1" ; Times: 2
+	Query: "33461" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 2
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "Phimosus infuscatus" ; Times: 4
+	Query: "Theristicus caerulescens" ; Times: 2
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 1
+	Query: "(F. F. Nyc) institutioncode:CMN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vilhena" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "cmn E924" ; Times: 1
+	Query: "Poicephalus" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "glaucidium capense" ; Times: 1
+	Query: "Cossypha dichroa" ; Times: 2
+	Query: "86174" ; Times: 2
+	Query: "stateprovince:&#34;montana&#34; recordedby:bowman" ; Times: 1
+	Query: "Anhima cornuta mappable:1" ; Times: 1
+	Query: "PARA MUS" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "amazilia fimbriata" ; Times: 4
+	Query: "Chelidoptera tenebrosa" ; Times: 2
+	Query: "31709" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Pinus ponderosa mappable:1" ; Times: 1
+	Query: "Myrmecocichla nigra" ; Times: 3
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "lamprotornis regius" ; Times: 3
+	Query: "prunella fulvescens" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Pickering institutioncode:CMN" ; Times: 3
+	Query: "Galbula ruficauda mappable:1" ; Times: 2
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "Crypturellus undulatus mappable:1" ; Times: 7
+	Query: "49924" ; Times: 3
+	Query: "33026" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "59237" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "aratinga nana" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 6
+	Query: "locality:queen lake year &gt;= 1915 year &lt;= 1930" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1263 download events in this period)
+Total number of records downloaded: 89
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "walter koelz" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+
+
+End of report.
