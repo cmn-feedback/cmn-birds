@@ -1,0 +1,209 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 209
+Number of records retrieved in searches: 1692
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 40
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 4
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 45
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 83
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 16
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-08 ; Times: 13
+	Date: 2019-07-12 ; Times: 33
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 24
+	Date: 2019-07-17 ; Times: 14
+	Date: 2019-07-15 ; Times: 21
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 5
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-29 ; Times: 8
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-05 ; Times: 24
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 5
+	Date: 2019-07-06 ; Times: 5
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aratinga aurea mappable:1" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "Khalatse 1934" ; Times: 1
+	Query: "bananal" ; Times: 2
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "Forpus crassirostris" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 17
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "Pelecanus occidentalis south carolina" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "eremomela scotops" ; Times: 3
+	Query: "pelagodroma marina new zealand" ; Times: 1
+	Query: "Pagodroma nivea" ; Times: 2
+	Query: "Ara chloropterus mappable:1" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "adsimilis" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pelagodroma new zealand" ; Times: 1
+	Query: "gbifdatasetid:848586a4-a07b-4974-9f12-e1bbe0736a21 procellariiformes" ; Times: 3
+	Query: "Turdus rufiventris mappable:1" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "Melacoryphus" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "asturina nitida" ; Times: 3
+	Query: "Oceanites gracilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "Frost Pond" ; Times: 1
+	Query: "Ramphastos toco mappable:1" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 2
+	Query: "Ramphastos tucanus mappable:1" ; Times: 1
+	Query: "Brotogeris sanctithomae mappable:1" ; Times: 1
+	Query: "Brotogeris chiriri mappable:1" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "Coenocorypha aucklandica" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "Aratinga auricapilla mappable:1" ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "Tyto alba AND Island" ; Times: 1
+	Query: "Pteroglossus inscriptus mappable:1" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 33
+	Query: "23148" ; Times: 1
+	Query: "72640-1-2" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "Sporophila caerulescens mappable:1" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "glaucidium capense" ; Times: 3
+	Query: "Aratinga jandaya mappable:1" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Poecile cinctus" ; Times: 1
+	Query: "gbifdatasetid:848586a4-a07b-4974-9f12-e1bbe0736a21" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Tapera naevia mappable:1" ; Times: 4
+	Query: "Myrmecocichla arnotti" ; Times: 1
+	Query: "54440 tyrannus" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "Cissopis leveriana mappable:1" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "Thraupis sayaca mappable:1" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Melipotes gymnops" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "Branta bernicla" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "Melitograis gilolensis" ; Times: 1
+	Query: "Oceanodroma hornbyi" ; Times: 5
+	Query: "Aratinga nana mappable:1" ; Times: 1
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "A.31512" ; Times: 1
+	Query: "upupa epops" ; Times: 8
+	Query: "Agapornis pullarius" ; Times: 1
+	Query: "42-480" ; Times: 2
+	Query: "23937" ; Times: 1
+	Query: "Coryphospingus cucullatus mappable:1" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "Euphonia chlorotica mappable:1" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Tchagra australis" ; Times: 3
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 1
+	Query: "Tachyphonus rufus mappable:1" ; Times: 1
+	Query: "Oceanites gracilis gracilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "pelagodroma marina auckland" ; Times: 1
+	Query: "Maximiliani vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "Empidornis semipartitus" ; Times: 1
+	Query: "Amazona agilis" ; Times: 2
+	Query: "69829" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "Eupetomena macroura mappable:1" ; Times: 5
+	Query: "egg L.R. Wolfe utah" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 985 download events in this period)
+Total number of records downloaded: 1411
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
