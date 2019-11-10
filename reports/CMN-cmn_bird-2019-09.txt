@@ -1,0 +1,230 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 2489
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 215
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Guadeloupe ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 8
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 9
+	Date: 2019-09-11 ; Times: 11
+	Date: 2019-09-12 ; Times: 8
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 20
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 14
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 126
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 20
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "45583" ; Times: 1
+	Query: "Sphyrapicus ruber AND Island" ; Times: 1
+	Query: "Calidris canutus" ; Times: 20
+	Query: "27957" ; Times: 1
+	Query: "Paramythia montium" ; Times: 1
+	Query: "Lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Melaenornis microrhynchus vntype:specimen sex:female" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 4
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "eremomela scotops" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 15
+	Query: "1282 Catharus" ; Times: 1
+	Query: "Chlorostilbon lucidus" ; Times: 2
+	Query: "45335" ; Times: 1
+	Query: "Aphelocoma californica Sonoma County" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Francis 1912" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "Prunella collaris" ; Times: 5
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "Cercotrichas signata vntype:specimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "16994." ; Times: 1
+	Query: "psophia viridis" ; Times: 2
+	Query: "42180" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "cercotrichas signata" ; Times: 1
+	Query: "Cichladusa ruficauda vntype:specimen" ; Times: 1
+	Query: "Vassar" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "sialia nidificans" ; Times: 1
+	Query: "Grizzly bear museum" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "aerodramus bartschi" ; Times: 1
+	Query: "newfoundland vntype:specimen (lagopus mutus)" ; Times: 1
+	Query: "anurolimnas viridis" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (Buteo)" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Cercotrichas signata vntype:specimen sex:female" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "67424" ; Times: 1
+	Query: "lagopus mutus newfoundland" ; Times: 1
+	Query: "56122 Catharus" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "labrador duck" ; Times: 3
+	Query: "Lagopus lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (Not buteo OR vulpes)" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Aerodramus bartschi" ; Times: 1
+	Query: "lagopus mutus vntype:specimen stateprovince:&#34;newfoundland&#34; AND (NOT buteo)" ; Times: 1
+	Query: "cinclus pallasii" ; Times: 2
+	Query: "Elaenia fallax" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 25
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "icterus mesomelas veracruz" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34;" ; Times: 1
+	Query: "cypseloides niger basisofrecord:PreservedSpecimen country:canada" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Pinguinus" ; Times: 4
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "67501" ; Times: 1
+	Query: "Aves Pyrenees" ; Times: 2
+	Query: "tyrannus 54440" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 45
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1073 download events in this period)
+Total number of records downloaded: 1336
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 22
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 11
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 22
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Lesbia" ; Times: 1
+	Query: "anurolimnas viridis" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Tangara labradorides" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "pachyptila" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Chlorostilbon lucidus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
