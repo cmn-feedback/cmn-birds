@@ -1,0 +1,165 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 162
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 73
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-10 ; Times: 6
+	Date: 2020-05-15 ; Times: 12
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 16
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 7
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "tai o country:&#34;china&#34;" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "county:&#34;san cristobal&#34;" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Texas Grus americana" ; Times: 1
+	Query: "Yemen" ; Times: 1
+	Query: "Junco hyemalis nova scotia" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "rolph suffolk" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "charadrius placidus" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "Charadrius leschenaultii india" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "county:&#34;san cristobal&#34; stateprovince:&#34;Galapagos&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Catharus 692" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "argent" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "65127" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Eremophila alpestris Kashmir" ; Times: 2
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "39437 bird" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1106 download events in this period)
+Total number of records downloaded: 297
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "egg texas" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+
+
+End of report.
