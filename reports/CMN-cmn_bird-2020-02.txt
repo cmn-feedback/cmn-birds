@@ -1,0 +1,192 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 284
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 81
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 3
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 30
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-24 ; Times: 9
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 18
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 7
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-09 ; Times: 8
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 10
+	Date: 2020-02-18 ; Times: 8
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 19
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "22179" ; Times: 1
+	Query: "fulmarus glacialis arctic" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 4
+	Query: "Camptorhynchus labradorius" ; Times: 1
+	Query: "fulmarus glacialis baffin" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "trogon brazil" ; Times: 2
+	Query: "14846" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "82104" ; Times: 2
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "markhami" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "ampelion rubrocristata" ; Times: 2
+	Query: "51609" ; Times: 1
+	Query: "15-1013-9" ; Times: 2
+	Query: "33720 Aves" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "81138" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "oceanites gracilis year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "fulmarus glacialis canada year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "paradigalla carunculata" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "distance(location,geopoint(48.00910073883534,-74.58984375))&lt;100000" ; Times: 1
+	Query: "fulmarus baffin" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 6
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "Melocichla mentalis" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "labrador duck" ; Times: 2
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Calandrella acutirostris" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "anthus lutescens" ; Times: 2
+	Query: "15700" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "fulmarus arctic" ; Times: 2
+	Query: "camptorhynchus" ; Times: 1
+	Query: "-108.55" ; Times: 1
+	Query: "UK 2978" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "sylvietta" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "alethe" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 2
+	Query: "oceanites gracilis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1023 download events in this period)
+Total number of records downloaded: 251
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
