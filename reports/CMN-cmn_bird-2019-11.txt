@@ -1,0 +1,222 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 249
+Number of records retrieved in searches: 2365
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 13
+	Country: United States ; Times: 204
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-18 ; Times: 9
+	Date: 2019-11-15 ; Times: 33
+	Date: 2019-11-14 ; Times: 11
+	Date: 2019-11-16 ; Times: 29
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-08 ; Times: 22
+	Date: 2019-11-09 ; Times: 15
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-27 ; Times: 11
+	Date: 2019-11-06 ; Times: 25
+	Date: 2019-11-07 ; Times: 45
+	Date: 2019-11-04 ; Times: 8
+	Date: 2019-11-05 ; Times: 5
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo gilvus alberta" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "Charadrius melodus 2004" ; Times: 4
+	Query: "17921" ; Times: 1
+	Query: "Polioptila californica californica 2017" ; Times: 4
+	Query: "61552" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "Jammu" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "egg bird vntype:specimen institutioncode:CMN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Charadrius melodus 1987" ; Times: 4
+	Query: "leon holotype" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "Anas platyrhynchos 1915" ; Times: 2
+	Query: "31201" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 4
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "61-278" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 4
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "Aves Jammu CMN" ; Times: 1
+	Query: "241667" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "indonesia guttula" ; Times: 2
+	Query: "Rheidae" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "Polioptila californica californica 2018" ; Times: 4
+	Query: "56937" ; Times: 2
+	Query: "Charadrius melodus 1985" ; Times: 4
+	Query: "55422" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "Charadrius melodus 1988" ; Times: 4
+	Query: "Charadrius melodus 1989" ; Times: 4
+	Query: "montifringilla nivalis" ; Times: 2
+	Query: "54548" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "Plocepasser" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "recordedby:robjent" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "elliott coues" ; Times: 3
+	Query: "18905" ; Times: 3
+	Query: "18906" ; Times: 1
+	Query: "Grizzly Bear 2017" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "58676" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "Grizzly Bear 2018" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Aphelocoma coerulescens 2017" ; Times: 11
+	Query: "Leon holotype" ; Times: 3
+	Query: "60015" ; Times: 1
+	Query: "Aphelocoma coerulescens 2018" ; Times: 12
+	Query: "Brachyramphus marmoratus 2018" ; Times: 5
+	Query: "43136" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 5
+	Query: "61132" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "Aves Jammu" ; Times: 10
+	Query: "10918" ; Times: 1
+	Query: "egg vntype:specimen institutioncode:CMN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "hippolais icterina" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "apus horus vntype:specimen" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 12
+	Query: "56080" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coccyzus americanus 2018" ; Times: 8
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "catalognumber:79277 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "Mycteria americana 2018" ; Times: 4
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "53626" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Charadrius melodus 2018" ; Times: 4
+	Query: "54466" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Pinguinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1367 download events in this period)
+Total number of records downloaded: 465
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: India ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Aves Jammu CMN" ; Times: 1
+	Query: "Aves Ladakh" ; Times: 1
+
+
+End of report.
