@@ -1,0 +1,150 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2227
+Number of records retrieved in searches: 2361
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 2205
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Unknown ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 2140
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 12
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 8
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-24 ; Times: 11
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 6
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "CMNAV E959" ; Times: 4
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen" ; Times: 2
+	Query: "54986" ; Times: 2
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "perisoreus canadensis Dease Lake" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Larus michahellis" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Phalaenoptilus ontario" ; Times: 2
+	Query: "35114" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "opisthocomus" ; Times: 2
+	Query: "british columbia 1883" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "apteryx" ; Times: 1
+	Query: "Phalaenoptilus canada" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "Ciconia abdimii" ; Times: 1
+	Query: "Merops persicus" ; Times: 1
+	Query: "Accipiter hastypestatus:1" ; Times: 2
+	Query: "34953" ; Times: 1
+	Query: "Myadestes genibarbis" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Metlakatla" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "stateprovince:&#34;british columbia&#34; year &gt;= 1883 year &lt;= 1884" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "&#34;grizzly bear&#34;" ; Times: 2
+	Query: "touit" ; Times: 2
+	Query: "numenius borealis" ; Times: 4
+	Query: "62875" ; Times: 1
+	Query: "34814" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1584 download events in this period)
+Total number of records downloaded: 1675
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Thamnophilus amazonicus" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "touit" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+
+
+End of report.
