@@ -1,0 +1,252 @@
+Report for Institution Code CMN, Resource cmn_bird
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 299
+Number of records retrieved in searches: 4838
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 19
+	Country: Netherlands ; Times: 9
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 8
+	Country: United States ; Times: 114
+	Country: Austria ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 65
+	Country: Unknown ; Times: 39
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 18
+	Date: 2020-10-18 ; Times: 3
+	Date: 2020-10-19 ; Times: 3
+	Date: 2020-10-08 ; Times: 13
+	Date: 2020-10-12 ; Times: 11
+	Date: 2020-10-13 ; Times: 108
+	Date: 2020-10-10 ; Times: 4
+	Date: 2020-10-11 ; Times: 5
+	Date: 2020-10-16 ; Times: 4
+	Date: 2020-10-17 ; Times: 8
+	Date: 2020-10-14 ; Times: 6
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-27 ; Times: 5
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-01 ; Times: 10
+	Date: 2020-10-30 ; Times: 28
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-05 ; Times: 7
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-02 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "scientificname:Corvus albus" ; Times: 3
+	Query: "44356" ; Times: 2
+	Query: "41813" ; Times: 2
+	Query: "Apalis thoracica" ; Times: 2
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Camaroptera brevicaudata" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "aerodramus bartschi" ; Times: 1
+	Query: "Kimball San Clemente 1914" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 5
+	Query: "Cisticola chiniana" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "scientificname:Pipile pipile" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "Laniarius atrococcineus" ; Times: 1
+	Query: "Batis molitor" ; Times: 2
+	Query: "mappable:1 scientificname:Picoides borealis" ; Times: 3
+	Query: "Larus atricilla" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 6
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Dryoscopus cubla" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "Lagonosticta senegala" ; Times: 2
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 8
+	Query: "stateprovince:&#34;Newfoundland&#34; institutioncode:CMN" ; Times: 22
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "mummy" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "chaetura Lawrence" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 4
+	Query: "Erithacus rubecula" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 15
+	Query: "16252" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "Sylvietta rufescens" ; Times: 1
+	Query: "Camarhynchus pallidus" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "Phylloscopus griseolus" ; Times: 1
+	Query: "Kimball 1914" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Bradypterus barratti" ; Times: 3
+	Query: "20582" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 2
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "aitkin aves" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "mappable:1 scientificname:Erithacus rubecula" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Emberiza tahapisi" ; Times: 1
+	Query: "Stercorarius parasiticus" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "Cossypha dichroa" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "Buphagus" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "Guiguet Queen Charlotte Islands" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Kimball San Clemente" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "Sylvia subcaerulea" ; Times: 7
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 32
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "scientificname:Pipile jacutinga" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Passer diffusus" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Turdus jamaicensis" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "sphyrapicus hybrid" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lagonosticta rubricata" ; Times: 6
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "Cercotrichas signata" ; Times: 2
+	Query: "43096" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "Agapornis uganda" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "Bonasa umbellus gray" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Pycnonotus tricolor" ; Times: 2
+	Query: "Trachyphonus vaillantii" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "Anas formosa" ; Times: 1
+	Query: "Tchagra australis" ; Times: 1
+	Query: "Uraeginthus angolensis" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "JF 163" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "Pytilia melba" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "Chaffanjon" ; Times: 1
+	Query: "Sterna sumatrana" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "42514" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1521 download events in this period)
+Total number of records downloaded: 1436
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "aves paraguay" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+
+
+End of report.
